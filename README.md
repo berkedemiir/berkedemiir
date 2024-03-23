@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-- 🔭 I’m currently working on TÜBİTAK
 
 - 📫 How to reach me **berkedemir01199@gmail.com**
 
